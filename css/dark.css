@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(11, 12, 15);
+    color: azure;
+}
+
+#btn-color-scheme{
+    background-color: rgb(94, 105, 131);
+    background-image: url(../images/moon.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-style: solid;
+    border-color: black;
+    background-color: rgb(75, 76, 88);
+}
+
+#titulo-regioes-brasil{
+    color: rgb(240, 243, 246);
+}
+
+#imagens-regioes-brasil{
+    background-color: rgba(7, 60, 98, 0.281);
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(18, 73, 106);
+}
+
+#imagens-regioes-brasil img{
+    opacity: 0.7;
+}
+#imagens-regioes-brasil img:hover{
+    opacity: 0.8;
+}
